@@ -4,8 +4,9 @@ def greet():
 
 
 
+
 # This is to make functions flexible
-def greet(name):
+
     print("Hello", name)
 greet("John")
 greet("Jane")
