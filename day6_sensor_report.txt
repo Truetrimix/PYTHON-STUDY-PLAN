@@ -1,0 +1,8 @@
+Sensor Readings Report
+----------------------------
+Total number of readings: 20
+Minimum reading: 22.3°C
+Maximum reading: 35.0°C
+Average reading: 29.80°C
+ALERT: One or more readings are above 30°C!
+Number of readings above 30°C: 9
